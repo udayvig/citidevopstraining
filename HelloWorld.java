@@ -5,6 +5,7 @@ class HelloWorld {
 		System.out.println("Hello, World! (from newfeature Jenkins :))");
 		System.out.println("Hello, World! (from newfeature Jenkins :))");
 		System.out.println("Hello, World! (from newfeature Jenkins :))");
+		System.out.println("Hello, World! (from newfeature Jenkins :))");
 	} 
     }
 }
